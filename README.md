@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @upendarxl
-- 👀 I’m interested in front End and Data analysis
+- 👋 Hi, I’m upendar 
+- 👀 I’m interested in front End and Data analytics
 - 🌱 I’m currently learning Angular Js  and ML
-- 💞️ I’m looking to collaborate on Angular Js
+- 💞️ I’m looking to collaborate on Angular Js/react
 - 📫 How to reach me upendarxl@gmail.com
 
 <!---
